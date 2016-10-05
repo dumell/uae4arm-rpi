@@ -60,37 +60,37 @@
  * Virtual Key for (A) button
  * default: HOME (278)
  */
-#define VK_A SDLK_HOME
+#define VK_A SDLK_LCTRL
 
 /*
  * Virtual Key for (B) button
  * default: END (279)
  */
-#define VK_B SDLK_END
+#define VK_B SDLK_LALT
 
 /*
  * Virtual Key for (X) button
  * default: PAGEDOWN (281)
  */
-#define VK_X SDLK_PAGEDOWN
+#define VK_X SDLK_SPACE
 
 /*
  * Virtual Key for (Y) button
  * default: PAGEUP (280)
  */
-#define VK_Y SDLK_PAGEUP
+#define VK_Y SDLK_LSHIFT
 
 /*
  * Virtual Key for (Left shoulder) button
  * default: RSHIFT (303)
  */
-#define VK_L SDLK_RSHIFT
+#define VK_L SDLK_z
 
 /*
  * Virtual Key for (Right shoulder) button
  * default: RCTRL (305)
  */
-#define VK_R SDLK_RCTRL
+#define VK_R SDLK_x
 
 /*
  * Virtual Key for (up) button
